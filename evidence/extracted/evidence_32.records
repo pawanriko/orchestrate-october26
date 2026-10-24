@@ -1,0 +1,7 @@
+# RECORD lines for evidence_32 (backup_restore_console_20260429.png).
+# Listed archives in a healthy recovery manager are restorable, so each
+# is ACTIVE (a restore path that can bring the data back).
+RECORD system_id=backup_service; resource_id=backup_9291; category=BACKUP_ARCHIVE; state=ACTIVE; identifiers=bluepeakco@outlook.com
+RECORD system_id=backup_service; resource_id=backup_9288; category=BACKUP_ARCHIVE; state=ACTIVE; identifiers=miller.logistics@company.com
+RECORD system_id=backup_service; resource_id=backup_9287; category=BACKUP_ARCHIVE; state=ACTIVE; identifiers=areed1433@gmail.com; retention_until=2026-07-26T00:00:00Z
+RECORD system_id=backup_service; resource_id=backup_9286; category=BACKUP_ARCHIVE; state=ACTIVE; identifiers=summit-retail@company.com

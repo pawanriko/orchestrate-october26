@@ -1,0 +1,23 @@
+# source: evidence/images/search_index_inspector_20260901.png
+# file_id: evidence_09
+# captured_at: 2026-09-01T06:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (search box, results table,
+# raw-document panel, all large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_09.records file (RECORD lines), never this text.
+
+Search Console, Customer Search, index customer_directory_v3, prod-eu.
+Search box: email:g.silva76@gmail.com. 2 hits. Executed 01 Sep 2026
+06:00:14 UTC, 184 ms.
+Results table (2 records):
+1. search_428 — display name Gabriel Silva — email g.silva76@gmail.com —
+   customer reference user_13 — score 9.84 — last indexed 05:58:21 UTC.
+2. search_1874 — display name (blank) — email g.silva76.jr@gmail.com —
+   customer reference (blank) — score 4.12 — last indexed 05:55:03 UTC.
+Raw document panel for search_428: _index customer_directory_v3,
+_id search_428, display_name Gabriel Silva, email g.silva76@gmail.com,
+customer_reference user_13, indexed_at 2026-09-01T05:58:21Z.
+Activity: 06:00:14 email:g.silva76@gmail.com · 2 hits; 05:42:03
+customer_reference:user_9842 · 1 hit; 05:31:18 display_name:"Aditi Jain"
+· 1 hit (other queries, not results of this search).

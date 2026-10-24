@@ -1,0 +1,5 @@
+# NO RECORDS: this register lists disputed-order rows keyed by user_N
+# (user_08, user_12, user_17, user_21, user_24, user_29) with retain-until
+# dates in 2033, but shows NO legal_hold_NNNN resource ID for any row.
+# Without a resource ID there is nothing the engine can link to a case,
+# so no RECORD is emitted rather than inventing one.

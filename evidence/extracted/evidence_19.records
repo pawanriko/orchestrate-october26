@@ -1,0 +1,4 @@
+# RECORD lines for evidence_19 (analytics_profile_view_20260713.png).
+# The profile page itself carries the user's email, so the analytics
+# record is IDENTIFIABLE (not merely present): it must be anonymized.
+RECORD system_id=analytics_platform; resource_id=analytics_7438; category=ANALYTICS_PROFILE; state=IDENTIFIABLE; identifiers=darwish.omar@icloud.com|user_20

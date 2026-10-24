@@ -1,0 +1,21 @@
+# source: evidence/images/marketing_profile_console.png
+# file_id: evidence_60
+# captured_at: 2026-09-16T07:20:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (header line, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_60.records file (RECORD lines), never this text.
+
+Audience Operations console, Audience Operations, badge Live.
+Header: Soo-jin Park. Subheader: marketing_001 · sj.park@naver.com ·
++82 10-5837-9451.
+Market: South Korea. Language: Korean. Email opt-in: Yes. SMS opt-in:
+No. Last refreshed 15 Sep 2026 23:40 UTC.
+Profile table (4 records, 15 Sep 2026): 23:40 product-category update
+(Desk accessories · Drinkware); 23:38 campaign eligibility check
+(Autumn offers · Eligible); 23:35 profile refresh (Live profile fields
+updated); 23:32 audience evaluation (Returning customers — East Asia).
+Audience membership: audience Returning customers — East Asia; segments
+Repeat customer · Home & lifestyle · Mobile shopper; preferred
+categories Desk accessories · Drinkware; last campaign Autumn offers;
+open rate 32.4%; click rate 6.8%.

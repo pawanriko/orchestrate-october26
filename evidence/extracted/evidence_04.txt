@@ -1,0 +1,25 @@
+# source: evidence/images/account_admin_console_20260926.png
+# file_id: evidence_04
+# captured_at: 2026-09-26T11:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (header/detail fields, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_04.records file (RECORD lines), never this text.
+# Transcription covers every visible resource ID and identifier; order
+# amounts/dates are summarized, not exhaustively transcribed.
+
+Customer Operations console, customer page.
+Header: Haruka Sato, Silver tier. Subheader: user_11 · account_5762.
+Email: haruka.s1838@zoho.com. Phone: +81 90 7610 2507.
+Signup channel: mobile_app. Market: JP. Preferred language: Japanese.
+Last contact: 24 Sep 2026 09:14 JST.
+Orders table (2 records): ORD-20265762 (12 Sep 2026, Ceramic coffee set,
+JPY 8,900, Delivered 18 Sep); ORD-20265518 (28 Aug 2026, Travel backpack,
+JPY 12,400, Returned 03 Sep).
+Customer details: default address 2-18-4 Kichijoji, Musashino, Tokyo
+180-0004; loyalty tier Silver; Support CS-8538 · support_9538 (secondary
+mention: no identifier of its own on this screen, so no RECORD is emitted
+for it); member since 12 Jan 2024.
+Activity: 24 Sep customer replied to CS-8538; 22 Sep support agent
+responded; 18 Sep order ORD-20265762 delivered; 03 Sep order ORD-20265518
+returned; 28 Aug support_9538 created.

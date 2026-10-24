@@ -1,0 +1,29 @@
+# source: evidence/images/security_audit_explorer_20260905.png
+# file_id: evidence_37
+# captured_at: 2026-09-05T07:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (events table + raw-event
+# panel, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_37.records file (RECORD lines), never this text.
+
+Sentinel console, Account events, subject filter user_03, 18–26 Aug 2026
+UTC. 6 signed events, 5 categories, 0 integrity failures, partition
+2026-Q3.
+Events table (6 records, all subject user_03, integrity Valid):
+1. 25 Aug 04:03 — Account closure recorded — Account lifecycle —
+   automated workflow — audit_record_003.
+2. 25 Aug 03:21 — Session revoked — Session management — Security
+   system — audit_record_002.
+3. 24 Aug 16:14 — Recovery challenge completed — Authentication —
+   User (self) — audit_record_001.
+4. 22 Aug 11:27 — Email change confirmed — Profile update — User
+   (self) — audit_record_006.
+5. 20 Aug 09:42 — Login from new device — Authentication — User
+   (self) — audit_record_005.
+6. 18 Aug 14:05 — Password changed — Authentication — User (self) —
+   audit_record_004.
+Raw event panel for audit_record_003: event_type
+account_closure_recorded, subject user_03, actor automated account
+workflow, recorded_at 2026-08-25T04:03:00Z, fingerprint 8f0c...31ad,
+signature Valid, journal 2026-Q3.

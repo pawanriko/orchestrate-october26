@@ -1,0 +1,24 @@
+# source: evidence/images/backup_restore_console_20260429.png
+# file_id: evidence_32
+# captured_at: 2026-04-29T09:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (archives table + detail
+# panel, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_32.records file (RECORD lines), never this text.
+
+Vault Recovery Manager console, Recovery Manager, Northstar Production
+weekly snapshots. Service health Healthy, storage growth +12.4%, restore
+success 99.6%, stored 1.35 PB.
+Archives table (4 records, all created 26 Apr 02:00, AES-256, tier
+Archive):
+1. backup_9291 — bluepeakco@outlook.com — ap-southeast-1 — 102.3 GB.
+2. backup_9288 — miller.logistics@company.com — us-west-2 — 67.1 GB.
+3. backup_9287 — areed1433@gmail.com — eu-west-1 — 84.7 GB.
+4. backup_9286 — summit-retail@company.com — us-east-1 — 91.4 GB.
+Detail panel for backup_9287: account areed1433@gmail.com, path
+s3://northstar-backups/customer-platform/weekly/segment-42-20260426.tar.zst,
+region eu-west-1, created 26 Apr 2026 02:00 UTC, encryption AES-256,
+checksum Verified, last drill 29 Mar 2026, retention end 26 Jul 2026.
+Activity: 25 Apr backup_9286 restored · Completed; 24 Apr backup_9281
+restored · Completed; 22 Apr checksum verification · Completed.

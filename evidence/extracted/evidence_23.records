@@ -1,0 +1,7 @@
+# RECORD lines for evidence_23 (customer_export_console_20260618.png).
+# Every listed export package exists, whatever its build status, so each
+# is PRESENT (a Collecting/Packaging package is still a remaining copy).
+RECORD system_id=export_service; resource_id=export_1261; category=USER_EXPORT; state=PRESENT; identifiers=marcus.lee@northstar.shop
+RECORD system_id=export_service; resource_id=export_1260; category=USER_EXPORT; state=PRESENT; identifiers=ingrid.dahl@outlook.com
+RECORD system_id=export_service; resource_id=export_1259; category=USER_EXPORT; state=PRESENT; identifiers=sara.kim@northstar.shop
+RECORD system_id=export_service; resource_id=export_1258; category=USER_EXPORT; state=PRESENT; identifiers=daniel.park@northstar.shop

@@ -1,0 +1,27 @@
+# source: evidence/images/customer_export_console_20260618.png
+# file_id: evidence_23
+# captured_at: 2026-06-18T12:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (exports table + detail
+# panel, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_23.records file (RECORD lines), never this text.
+
+Customer Download Center console, Data exports, 4 jobs.
+Summary: Ready 2, Processing 2, Created today 1, Downloads today 0.
+All exports table (4 records):
+1. export_1261 — customer_export_1261.zip — owner
+   marcus.lee@northstar.shop — status Collecting — created
+   20 Jun 14:18 UTC.
+2. export_1260 — customer_export_1260.zip — owner
+   ingrid.dahl@outlook.com — status Ready — created 18 Jun 06:42 UTC.
+3. export_1259 — customer_export_1259.zip — owner
+   sara.kim@northstar.shop — status Packaging — created 17 Jun 11:03 UTC.
+4. export_1258 — customer_export_1258.zip — owner
+   daniel.park@northstar.shop — status Ready — created 16 Jun 09:27 UTC.
+Detail panel for export_1260: owner ingrid.dahl@outlook.com, created
+18 Jun 2026 06:42 UTC, expires 25 Jun 2026 06:42 UTC, size 18.4 MB,
+checksum SHA-256 · 41ca09..., download count 0, included Profile ·
+Orders · Saved addresses.
+Activity: 06:46 ready for download; 06:45 package created; 06:43
+collecting customer records; 06:42 export requested.

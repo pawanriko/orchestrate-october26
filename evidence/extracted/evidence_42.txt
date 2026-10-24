@@ -1,0 +1,29 @@
+# source: evidence/images/deleted_account_reference_20260310.png
+# file_id: evidence_42
+# captured_at: 2026-03-10T06:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the visible fields below (header + overview table,
+# large type).
+# NO RECORDS: this screen shows a retained customer reference for user_17
+# but displays NO tombstone_NNNN resource ID and no direct identifier
+# (no name, email, phone, or hash). There is therefore nothing the engine
+# can link to a deletion case without inventing a resource ID, so no
+# RECORD is emitted. The screen is consistent with a compliant tombstone
+# (stable reference only), but that cannot be asserted as an observation
+# of a specific tombstone record.
+# NOTE: transcription below is for human audit only; the engine reads no
+# RECORD from this file.
+
+Customer Reference Registry console, Customer references.
+Header: user_17, badge "Retained reference". Subheader: Customer key ·
+Account Platform · eu-west.
+Reference type: Customer key. Created 11 Jan 2024 08:42 UTC. Most recent
+update 10 Mar 2026 07:18 UTC. Owner team: Account Platform.
+Overview table (4 linked records, all status Active):
+1. Orders — ORD-20263245 — Linked to customer — 11 Jan 2024 08:45.
+2. Support — CS-3245 — Linked to customer — 14 Feb 2024 12:16.
+3. Support — CS-3378 — Linked to customer — 03 Jun 2024 09:27.
+4. Finance — FIN-7742 — Linked to customer — 22 Aug 2024 15:03.
+History: 10 Mar 2026 metadata reviewed; 22 Aug 2024 finance link added;
+03 Jun 2024 support link added; 14 Feb 2024 support link added;
+11 Jan 2024 reference created.

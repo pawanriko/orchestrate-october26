@@ -1,0 +1,21 @@
+# source: evidence/images/analytics_profile_view_20260713.png
+# file_id: evidence_19
+# captured_at: 2026-07-13T10:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (header line, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_19.records file (RECORD lines), never this text.
+
+Pulse Analytics console, Users page, last 90 days.
+Header: Omar Darwish. Subheader: user_20 · analytics_7438 ·
+darwish.omar@icloud.com.
+Stats: sessions 12, products viewed 19, completed orders 2, revenue
+USD 167.42, mobile/desktop 67%/33%, acquisition Organic search.
+Event timeline (5 records, 13 Jul 2026): order completed (Ceramic coffee
+set, USD 84.21, mobile), checkout started (2 items, USD 84.21, mobile),
+product viewed (Ceramic coffee set, mobile), added to cart (Ceramic
+coffee set, USD 42.00, mobile), product viewed (Stoneware mug,
+USD 18.00, desktop).
+Profile attributes: market AE, audience Returning shopper, interest
+Coffee & dining, last activity 13 Jul 2026 14:22 UTC, first seen
+21 Apr 2026 09:14 UTC.

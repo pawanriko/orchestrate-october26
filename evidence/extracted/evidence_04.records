@@ -1,0 +1,5 @@
+# RECORD lines for evidence_04 (account_admin_console_20260926.png).
+# Format: RECORD system_id=...; resource_id=...; category=...; state=...;
+#   identifiers=<|-separated>; retention_until=<ISO, optional>
+# The account page subject is the only attributable record on this screen.
+RECORD system_id=account_service; resource_id=account_5762; category=USER_PROFILE; state=PRESENT; identifiers=haruka.s1838@zoho.com|+81 90 7610 2507|user_11

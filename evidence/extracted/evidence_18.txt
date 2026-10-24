@@ -1,0 +1,52 @@
+# source: evidence/documents/account_history_report_20260718.pdf
+# file_id: evidence_18
+# captured_at: 2026-07-18T11:00:00Z
+# method: pdftotext -layout (poppler), deterministic
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling <file_id>.records file (RECORD lines), never this text.
+
+NORTHSTAR SHOP - CUSTOMER STATEMENT
+Statement NST-2026-0718-1842
+
+
+
+Customer and order
+ Record                        Customer Ingrid Dahl
+
+ Detail                        user_18
+
+ Detail                        ingrid.dahl@outlook.com
+
+ Detail                        statement NST-2026-0718-1842
+
+ Detail                        order ORD-20261260
+
+
+ Item                          Smart desk lamp, SKU LAMP-SD-04, quantity 1, subtotal EUR 54.95, shipping EUR 4.99, tax
+                               EUR 11.99, total EUR 71.93
+
+
+ Record                        Payment Visa ending 4821
+
+ Detail                        billing status paid
+
+ Detail                        order date 08 Jul 2026
+
+ Detail                        dispatched 10 Jul
+
+ Detail                        delivered 14 Jul
+NORTHSTAR SHOP - CUSTOMER STATEMENT
+Continued - Order timeline and returns
+
+
+Charges and delivery
+ Delivery address               24 Fjordgata, 7010 Trondheim, Norway
+
+
+ Timeline                       order placed, payment authorised, warehouse packed, carrier collected, delivered
+
+# NO RECORDS: this customer statement names user_18 (Ingrid Dahl,
+# ingrid.dahl@outlook.com, statement NST-2026-0718-1842, order
+# ORD-20261260) but shows NO deletion-resource ID (no account_NNNN or
+# other *_NNNN record). A statement number is not a deletion resource, so
+# no RECORD is emitted rather than inventing one.

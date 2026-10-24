@@ -1,0 +1,28 @@
+# source: evidence/images/connector_management_console_20260807.png
+# file_id: evidence_14
+# captured_at: 2026-08-07T08:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (topology table + detail
+# panel, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_14.records file (RECORD lines), never this text.
+
+BridgeOps console, Connections, PRODUCTION eu-west, 07 Aug 2026 08:00 UTC.
+12 connectors. Topology table (4 records):
+1. data_flow_1121 — destination customer_analytics_warehouse — selector
+   jain.aditi@gmail.com — mode Continuous — 1,284 events/hour — last
+   contact 07:59:42.
+2. data_flow_9846 — destination customer_analytics_warehouse — selector
+   lucia-torres@gmail.com — mode Continuous — 842 events/hour — last
+   contact 07:59:36.
+3. Order notifications — destination notification_service — selector order
+   events — mode Continuous — 650 events/hour (no resource ID, no user
+   identifier: no RECORD).
+4. Delivery tracking — destination logistics_warehouse — selector shipment
+   events — mode Continuous — 420 events/hour (no resource ID, no user
+   identifier: no RECORD).
+Detail panel for data_flow_1121: status Healthy, owner Data Platform,
+destination customer_analytics_warehouse, selector jain.aditi@gmail.com,
+sync mode Continuous sync, last response 200 OK · 1.8 s.
+Activity: 07:59:42 124 events delivered; 07:58:10 checkpoint committed;
+07:56:44 18 events retried; 07:55:02 destination acknowledged batch.

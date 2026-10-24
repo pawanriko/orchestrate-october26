@@ -1,0 +1,4 @@
+# RECORD lines for evidence_55 (security_retention_extract.pdf).
+# The signed journal extract proves audit_record_003 is retained until
+# 25 Aug 2027, i.e. it must still exist at any audit before that date.
+RECORD system_id=security_service; resource_id=audit_record_003; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03; retention_until=2027-08-25T04:03:00Z

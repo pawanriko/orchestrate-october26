@@ -1,0 +1,5 @@
+# NO RECORDS: this customer statement names user_18 (Ingrid Dahl,
+# ingrid.dahl@outlook.com, statement NST-2026-0718-1842, order
+# ORD-20261260) but shows NO deletion-resource ID (no account_NNNN or
+# other *_NNNN record). A statement number is not a deletion resource, so
+# no RECORD is emitted rather than inventing one.

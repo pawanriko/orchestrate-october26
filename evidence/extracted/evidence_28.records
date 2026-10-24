@@ -1,0 +1,5 @@
+# RECORD lines for evidence_28 (support_ticket_console_20260524.png).
+# The ticket page carries the requester's email, so the support message
+# is IDENTIFIABLE: the conversation may stay, but identifiers must be
+# redacted.
+RECORD system_id=support_platform; resource_id=support_1034; category=SUPPORT_MESSAGE; state=IDENTIFIABLE; identifiers=kagyeman8947@fastmail.com

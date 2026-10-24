@@ -1,0 +1,8 @@
+# RECORD lines for evidence_58 (delivery_correction_attachment.pdf).
+# The document is a customer-uploaded attachment file (title "DELIVERY
+# ADDRESS CORRECTION REQUEST", body line "file
+# delivery_address_correction.pdf", uploader customer) attached to ticket
+# CS-4827, i.e. a SUPPORT_ATTACHMENT (subject-only file: DELETE), not a
+# SUPPORT_MESSAGE (shared conversation: REDACT). Its content carries the
+# requester's email and phone, which is what links it to the case.
+RECORD system_id=support_platform; resource_id=support_001; category=SUPPORT_ATTACHMENT; state=PRESENT; identifiers=priya.raman@gmail.com|+91 98765 73142

@@ -1,0 +1,23 @@
+# source: evidence/images/support_ticket_console_20260524.png
+# file_id: evidence_28
+# captured_at: 2026-05-24T07:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the RECORD fields below (header + customer/email
+# cards, large type).
+# NOTE: transcription below is for human audit. The engine reads only
+# the sibling evidence_28.records file (RECORD lines), never this text.
+
+Helpline Console, Inbox. Ticket: CS-5034 · Where is my delivery?
+Subheader: support_1034 · Kofi Agyeman · Normal priority. SLA 01:42.
+Customer card: Kofi Agyeman. Email card: kagyeman8947@fastmail.com.
+Assigned: Maya Chen. Tags: Delivery · Tracking · Order update.
+Conversation (4 records): 09:12 Kofi Agyeman "Could you let me know
+where my order is and when it is expected to arrive?"; 09:13 Northstar
+Bot "We received your message and are checking the order details.";
+09:28 Maya Chen "The parcel reached the regional hub and is on track
+for delivery on 26 May."; 09:35 Kofi Agyeman "Thanks for the update."
+Order panel: ORD-20265034, product Running shoes, status In transit,
+carrier SwiftShip, tracking SWF-884103, expected 26 May 2026, assigned
+agent Maya Chen.
+Activity: 22 May order confirmed; 23 May dispatched; 24 May 07:46
+reached regional hub; 24 May 08:15 in transit; 26 May delivery expected.

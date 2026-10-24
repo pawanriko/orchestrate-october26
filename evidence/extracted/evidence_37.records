@@ -1,0 +1,8 @@
+# RECORD lines for evidence_37 (security_audit_explorer_20260905.png).
+# Every listed event is a retained security audit record for user_03.
+RECORD system_id=security_service; resource_id=audit_record_001; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03
+RECORD system_id=security_service; resource_id=audit_record_002; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03
+RECORD system_id=security_service; resource_id=audit_record_003; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03
+RECORD system_id=security_service; resource_id=audit_record_004; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03
+RECORD system_id=security_service; resource_id=audit_record_005; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03
+RECORD system_id=security_service; resource_id=audit_record_006; category=SECURITY_AUDIT_LOG; state=PRESENT; identifiers=user_03

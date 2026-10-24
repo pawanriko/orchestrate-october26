@@ -1,0 +1,5 @@
+# RECORD lines for evidence_14 (connector_management_console_20260807.png).
+# A connector listed as Continuous/Healthy with a user-email selector is
+# an ACTIVE data flow: it can still copy that user's data.
+RECORD system_id=integration_service; resource_id=data_flow_1121; category=DATA_FLOW; state=ACTIVE; identifiers=jain.aditi@gmail.com
+RECORD system_id=integration_service; resource_id=data_flow_9846; category=DATA_FLOW; state=ACTIVE; identifiers=lucia-torres@gmail.com

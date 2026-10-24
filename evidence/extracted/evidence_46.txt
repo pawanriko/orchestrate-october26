@@ -1,0 +1,32 @@
+# source: evidence/images/object_storage_browser_20260213.png
+# file_id: evidence_46
+# captured_at: 2026-02-13T08:00:00Z
+# method: visual transcription (agent read of the rendered screenshot, 2026-10-24)
+# confidence: high for the visible fields below (objects table + detail
+# panel, large type).
+# NO RECORDS: this bucket listing shows object filenames only. No
+# deletion-resource ID (support_NNNN, export_NNNN, account_NNNN, ...) and
+# no user identifier appears anywhere on the screen, so no observation
+# can be linked to any user without guessing. The support-attachments
+# path prefix alone is not a link to a specific record.
+# NOTE: transcription below is for human audit only; the engine reads no
+# RECORD from this file.
+
+Nimbus Object Storage console, bucket northstar-customer-data, 8 objects.
+Path: eu-west-1 / support-attachments / 2026 / 02. Account: Northstar
+Production. Region eu-west-1. Captured 13 Feb 2026 08:00 UTC. Storage
+class All.
+Objects table (8 records):
+1. delivery_confirmation_19.pdf — 684 KB — 12 Feb 18:42 — Standard — v3.
+2. delivery_confirmation_20.pdf — 712 KB — 11 Feb 14:17 — Standard — v1.
+3. return_label_4821.pdf — 203 KB — 10 Feb 09:33 — Standard — v1.
+4. return_label_4876.pdf — 198 KB — 11 Feb 16:05 — Standard — v2.
+5. invoice_NS-10493.pdf — 318 KB — 10 Feb 11:21 — Standard — v1.
+6. parcel_damage_7713.jpg — 2.4 MB — 12 Feb 10:08 — Standard — v1.
+7. customer_export_2026-02-10.zip — 128 MB — 10 Feb 23:14 — Standard — v1.
+8. customer_export_2026-02-12.zip — 131 MB — 12 Feb 21:56 — Standard — v1.
+Detail panel for delivery_confirmation_19.pdf: size 684 KB, version v3,
+content type application/pdf, encryption AES-256, checksum e71b6d...,
+uploader support-service, modified 12 Feb 2026 18:42 UTC.
+Activity: v3 12 Feb 18:42 metadata update; v2 12 Feb 18:39 upload
+complete; v1 12 Feb 18:38 object created.
